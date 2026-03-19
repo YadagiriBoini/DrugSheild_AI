@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import json
-from BackEnd.model import predict_risk
+from model import predict_risk
 
 app = Flask(__name__)
 CORS(app)
