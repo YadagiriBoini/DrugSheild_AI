@@ -1,0 +1,19 @@
+{
+ "aspirin-warfarin": {
+  "severity": "High",
+  "effect": "Increased bleeding risk",
+  "advice": "Avoid combination"
+ },
+
+ "ibuprofen-aspirin": {
+  "severity": "Moderate",
+  "effect": "Reduced aspirin effectiveness",
+  "advice": "Take at different times"
+ },
+
+ "metformin-alcohol": {
+  "severity": "High",
+  "effect": "Risk of lactic acidosis",
+  "advice": "Avoid alcohol"
+ }
+}
